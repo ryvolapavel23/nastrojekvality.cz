@@ -1,6 +1,6 @@
 # 🛠️ Nástroje Kvality Online (pro Automotive & Průmysl)
 
-> Moderní, interaktivní a bezplatná sada nástrojů pro inženýry kvality, auditory a manažery výroby podle standardů **IATF 16949** a **VDA**.
+> Moderní, interaktivní a bezplatná sada nástrojů pro inženýry kvality, auditory, vedoucí výroby a manažery podle standardů **IATF 16949** a **VDA**.
 
 [![Spustit nástroje zdarma](https://img.shields.io/badge/Otevřít%20web-NástrojeKvality.cz-0d6efd?style=for-the-badge&logo=googlechrome)](https://nastrojekvality.cz/)
 
@@ -35,6 +35,6 @@ Praktické články, návody a reálné případové studie z automotive praxe:
 ## 🔒 Bezpečnost a ochrana dat
 - Aplikace nevyžaduje registraci ani instalaci doplňků.
 - Inženýrská a procesní data zůstávají lokálně v relaci vašeho prohlížeče.
-- PDF reporty jsou optimalizovány pro interní i zákaznické audity.
+- PDF reporty jsou optimalizovány pro interní i zákaznické potřeby.
 
 🌐 Provozováno na [NástrojeKvality.cz](https://nastrojekvality.cz).
