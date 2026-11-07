@@ -38,3 +38,4 @@ Praktické články, návody a reálné případové studie z automotive praxe:
 - PDF reporty jsou optimalizovány pro interní i zákaznické potřeby.
 
 🌐 Provozováno na [NástrojeKvality.cz](https://nastrojekvality.cz).
+*(Anglická verze pro globální automotive: [GetQualityTools.com](https://getqualitytools.com).)*
